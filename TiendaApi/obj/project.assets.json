@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arnau.mora_modelical\\source\\repos\\asdasdas\\TiendaApi\\TiendaApi.csproj",
+      "projectUniqueName": "C:\\Users\\arnau.mora_modelical\\source\\repos\\TiendaApi\\API-Rest\\TiendaApi\\TiendaApi.csproj",
       "projectName": "TiendaApi",
-      "projectPath": "C:\\Users\\arnau.mora_modelical\\source\\repos\\asdasdas\\TiendaApi\\TiendaApi.csproj",
+      "projectPath": "C:\\Users\\arnau.mora_modelical\\source\\repos\\TiendaApi\\API-Rest\\TiendaApi\\TiendaApi.csproj",
       "packagesPath": "C:\\Users\\arnau.mora_modelical\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arnau.mora_modelical\\source\\repos\\asdasdas\\TiendaApi\\obj\\",
+      "outputPath": "C:\\Users\\arnau.mora_modelical\\source\\repos\\TiendaApi\\API-Rest\\TiendaApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arnau.mora_modelical\\AppData\\Roaming\\NuGet\\NuGet.Config",
